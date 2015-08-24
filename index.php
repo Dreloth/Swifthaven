@@ -313,10 +313,8 @@
 				<h5>Location</h5>
 				
 				<address>
-				  <strong>PLACEHOLDER.</strong><br>
-				  PLACEHOLDER.<br>
-				  PLACEHOLDER.<br>
-				  <abbr title="Phone">P:</abbr> (123) 456-7890
+				  <strong>Nanaimo, BC</strong><br>
+				 <!-- <abbr title="Phone">P:</abbr> (123) 456-7890-->
 				</address>
 
 				<address>
@@ -324,12 +322,12 @@
 				  <a href="mailto:#">melcadieux@shaw.ca</a>
 				</address>	
 				<address>
-				  <strong>We're on social networks</strong><br>
+				  <strong>I'm on Facebook!</strong><br>
                        	<ul class="company-social">
                             <li class="social-facebook"><a href="#" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                            <li class="social-twitter"><a href="#" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                          <!--  <li class="social-twitter"><a href="#" target="_blank"><i class="fa fa-twitter"></i></a></li>
                             <li class="social-dribble"><a href="#" target="_blank"><i class="fa fa-dribbble"></i></a></li>
-                            <li class="social-google"><a href="#" target="_blank"><i class="fa fa-google-plus"></i></a></li>
+                            <li class="social-google"><a href="#" target="_blank"><i class="fa fa-google-plus"></i></a></li>-->
                         </ul>	
 				</address>					
 			
