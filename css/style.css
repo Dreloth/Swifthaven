@@ -357,7 +357,6 @@ hr {
 ============================ */
 
 .boxed-grey {
-	background: #f9f9f9;
 	padding: 20px;
 }
 
@@ -371,12 +370,6 @@ hr {
 
 .avatar {
 	margin-bottom: 20px;
-}
-
-.avatar img{
- height: 200px;
- width: 200px;
- min-width: 200px;
 }
 
 /* ===========================
